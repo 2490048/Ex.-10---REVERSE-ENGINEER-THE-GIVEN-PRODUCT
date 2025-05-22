@@ -40,8 +40,8 @@
 
 ![Screenshot 2025-05-16 225130](https://github.com/user-attachments/assets/d2f2e6d6-db2c-4d7b-a721-9563f735503d)
 
-### Name: Praveen S
-### Register Number: 212224230206
+### Name: RAHUL RP
+### Register Number: 212224240125
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
